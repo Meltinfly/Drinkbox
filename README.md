@@ -132,5 +132,5 @@
 
 Если у вас есть вопросы или предложения, напишите мне:
 
-- Email: mornival@outlook.com
+- Email: mihaylov.slava@outlook.com
 - Telegram: @Fl1cker_0
