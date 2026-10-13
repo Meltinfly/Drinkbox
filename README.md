@@ -64,7 +64,7 @@
 ### Шаги:
 1. Клонирование репозитория:
    ```bash
-   git clone https://github.com/Fl1ckerxD/Drinkbox.git
+   git clone https://github.com/Meltinfly/Drinkbox.git
    cd Drinkbox
    ```
 
